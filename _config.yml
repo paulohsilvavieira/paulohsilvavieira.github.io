@@ -11,7 +11,6 @@
 
 # Name of website
 title: Paulo Dev Blog
-
 # Your name to show in the footer
 author: Paulo Henrique
 
@@ -86,7 +85,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -182,7 +181,7 @@ footer-hover-col: "#0085A1"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "paulohsilvavieira"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""

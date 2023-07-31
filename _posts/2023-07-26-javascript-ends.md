@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Javascript... Ainda Tá valendo a pena mesmo?
+title: Javascript... Ainda tá valendo a pena mesmo?
 tags: [js, dev, opinion]
 comments: false
 ---
 ***Opa pessoal! Tudo bom?***
+
+***ANTES DE QUALQUER COISA, ISSO É A MINHA OPNIÃO***
 
 Dessa vez trouxe um texto rápido, sobre um pergunta que vem sendo feita na bolha tech, Será que javascript ainda tá valendo a pena ?
 

@@ -4,7 +4,7 @@ title: Javascript... Ainda tá valendo a pena mesmo?
 tags: [js, dev, opinion]
 comments: false
 ---
-***Opa pessoal! Tudo bom?***
+***Opa pessoal! Tudo bom com vocês?***
 
 ***ANTES DE QUALQUER COISA, ISSO É A MINHA OPNIÃO***
 
